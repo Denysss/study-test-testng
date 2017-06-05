@@ -25,7 +25,7 @@ Two teams. Trainer chooses who answers a question.
 
 Explain an Application/Class that should be tested
 
-####Practice - Discuss which the final result should be:
+#### Practice - discuss which the final result should be:
 1. Discuss which tests should be implemented (smoke, positive, negative(exception)).
 2. Discuss groups.
 3. Discuss Before and After.
@@ -36,5 +36,5 @@ Explain an Application/Class that should be tested
 8. Discuss which XML files should be.
 
 
-####Practice - help students if there are any questions
+#### Practice - help students if there are any questions
 1. Implement tests, XML files, DataProvider, Listener
