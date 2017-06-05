@@ -31,9 +31,10 @@ Explain an Application/Class that should be tested
 3. Discuss Before and After.
 4. Discuss DataProvider.
 5. Discuss Dependencies (dependsOnMethods, dependsOnGroups).
-6. Parallelism.
-7. Discuss which XML files should be.
+6. Discuss Listener to log
+7. Parallelism.
+8. Discuss which XML files should be.
 
 
 ####Practice - help students if there are any questions
-1. Implement tests, XML files, dataProviders
+1. Implement tests, XML files, DataProvider, Listener
