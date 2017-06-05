@@ -2,8 +2,8 @@
 
 #### Introduction.
 What are we going to do now?
-- theoretical part;
-- practical part.
+* theoretical part;
+* practical part.
 
 Two teams. Trainer chooses who answers a question.
 
@@ -23,7 +23,7 @@ Two teams. Trainer chooses who answers a question.
 
 #### Practice - trainer's part:
 
-Explain an Application/Class that should be tested
+* Explain an Application/Class that should be tested
 
 #### Practice - discuss which the final result should be:
 1. Discuss which tests should be implemented (smoke, positive, negative(exception)).
