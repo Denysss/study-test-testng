@@ -9,6 +9,7 @@ Two teams. Trainer chooses who answers a question.
 
 
 #### Theory test:
+0. What TestNG is.
 1. What TestNG annotations do you know? (Before, After, DataProvider, Factory, Listeners, Parameters, Test)
 2. What is the main structure of testng.xml? suite -> test -> groups/package/class ('s) -> method.  Golden rule - XML file should be simple and understandable.
 3. What the difference between BeforeSuite, BeforeTest, BeforeClass, BeforeMethod are? - testng.xml
